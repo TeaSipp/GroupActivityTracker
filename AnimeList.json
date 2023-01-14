@@ -1,31 +1,31 @@
 [
     {
         "Title":"One",
-        "Image":"./Images/one.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/one.png",
         "Priority":"High",
         "Type":"Anime"
     },
     {
         "Title":"Two",
-        "Image":"./Images/two.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/two.png",
         "Priority":"High",
         "Type":"Anime"
     },
     {
         "Title":"Three",
-        "Image":"./Images/three.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/three.png",
         "Priority":"High",
         "Type":"Anime"
     },
     {
         "Title":"Four",
-        "Image":"./Images/four.png",
+        "Image":".https://github.com/TeaSipp/GroupActivityTracker/raw/main/four.png",
         "Priority":"High",
         "Type":"Anime"
     },
     {
         "Title":"Five",
-        "Image":"./Images/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
         "Priority":"High",
         "Type":"Anime"
     }
