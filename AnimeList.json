@@ -8,19 +8,19 @@
     {
         "Title":"Two",
         "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/two.png",
-        "Priority":"High",
+        "Priority":"Low",
         "Type":"Anime"
     },
     {
         "Title":"Three",
         "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/three.png",
-        "Priority":"High",
+        "Priority":"Completed",
         "Type":"Anime"
     },
     {
         "Title":"Four",
         "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/four.png",
-        "Priority":"High",
+        "Priority":"Medium",
         "Type":"Anime"
     },
     {
