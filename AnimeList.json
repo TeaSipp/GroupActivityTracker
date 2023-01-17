@@ -1,133 +1,133 @@
 [
     {
         "Title":"Iron Blooded Orphans",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/one.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/iron-blooded-orphans.jpg",
         "Priority":"High",
         "Type":"Anime",
         "Id": "001"
     },
     {
         "Title":"Zombieland Saga",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/two.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/zombie-land-saga.jpg",
         "Priority":"High",
         "Type":"Anime",
         "Id": "002"
     },
     {
         "Title":"Legend of the Galactic Heroes",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/three.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/legend-of-the-galactic-heroes.jpg",
         "Priority":"High",
         "Type":"Anime",
         "Id": "003"
     },
     {
         "Title":"Cowboy Bebop",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/four.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/cowboy-bebop.jpg",
         "Priority":"Medium",
         "Type":"Anime",
         "Id": "004"
     },
     {
         "Title":"Sayounara Zetsubou Sensei",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/sayounara-zetsubou-sensei.jpg",
         "Priority":"Medium",
         "Type":"Anime",
         "Id": "005"
     },
     {
         "Title":"Bokurabo",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/bokurano.jpg",
         "Priority":"Medium",
         "Type":"Anime",
         "Id": "006"
     },
     {
         "Title":"Nodame Cantabile",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/nodame-cantabille.jpg",
         "Priority":"Medium",
         "Type":"Anime",
         "Id": "007"
     },
     {
         "Title":"Ano Hi Mitai Hana no Namae wo Bokutachi wa Mada Shiranai",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/ano-hi-mitai-hana-no-namae-wo-bokutachi-wa-mada-shiranai.jpg",
         "Priority":"Medium",
         "Type":"Anime",
         "Id": "008"
     },
     {
         "Title":"Girls und Panzer",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/girls-und-panzer.png",
         "Priority":"Medium",
         "Type":"Anime",
         "Id": "009"
     },
     {
         "Title":"Durarara!!",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/durarara.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "010"
     },
     {
         "Title":"Showa Genroku Rakugo Shinju",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/showa-genroku-rakugo-shinju.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "011"
     },
     {
         "Title":"Nichijou",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/nichijou.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "012"
     },
     {
         "Title":"Hanasaku Iroha: Blossoms for Tomorrow",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/hanasaku-iroha-blossoms-for-tomorrow.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "013"
     },
     {
         "Title":"Vinland Saga",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/vinland-saga.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "014"
     },
     {
         "Title":"Infinite Stratos Dub",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/infinite-stratos.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "015"
     },
     {
         "Title":"GATE: Jieitai Kanochi Nite Kaku Tatakaeri",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/gate-jieitai-kanochi-nite-kaku-tatakaeri.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "016"
     },
     {
         "Title":"Fireworks",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/fireworks.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "017"
     },
     {
         "Title":"Hanasaku Iroha: Home Sweet Home",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/hanasaku-iroha-home-sweet-home.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "018"
     },
     {
         "Title":"The Promised Neverland",
-        "Image":"https://github.com/TeaSipp/GroupActivityTracker/raw/main/five.png",
+        "Image":"https://github.com/TeaSipp/GroupActivityTracker/blob/main/the-promised-neverland.jpg",
         "Priority":"Low",
         "Type":"Anime",
         "Id": "019"
