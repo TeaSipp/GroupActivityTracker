@@ -1,4 +1,5 @@
 [
 {"Title": "test del 1", "Image": "", "Priority": "High", "Type": "Anime", "Id": 0},
-{"Title": "test del 2", "Image": "", "Priority": "High", "Type": "Anime", "Id": 1}
+{"Title": "test del 2", "Image": "", "Priority": "High", "Type": "Anime", "Id": 1},
+{"Title": "test del 3", "Image": "", "Priority": "High", "Type": "Anime", "Id": 2}
 ]
