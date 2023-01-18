@@ -1,1 +1,3 @@
-[{"Title": "Iron Blooded Orphans", "Image": "https://raw.githubusercontent.com/TeaSipp/GroupActivityTracker/main/iron-blooded-orphans.jpg", "Priority": "High", "Type": "Anime", "Id": "0"}, {"Title": "This is it", "Image": "no its now", "Priority": "High", "Type": "Anime", "Id": 1}, {"Title": "Not this one", "Image": "Yes its this", "Priority": "Medium", "Type": "Anime", "Id": 2}, {"Title": "Does it work", "Image": "yes", "Priority": "Completed", "Type": "Anime", "Id": 3}]
+[
+  {"Title": "Iron Blooded Orphans", "Image": "https://raw.githubusercontent.com/TeaSipp/GroupActivityTracker/main/iron-blooded-orphans.jpg", "Priority": "High", "Type": "Anime", "Id": "0"}
+]
