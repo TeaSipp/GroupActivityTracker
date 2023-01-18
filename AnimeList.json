@@ -10,5 +10,6 @@
 {"Title": "Girls und Panzer", "Image": "https://m.media-amazon.com/images/M/MV5BZDNmMzQ3NTYtMWY2Yi00YTU4LTlhNWEtODczZmFjMDZiNTM0XkEyXkFqcGdeQXVyMzUzMzgxNA@@._V1_.jpg", "Priority": "Medium", "Type": "Anime", "Id": 8},
 {"Title": "Durarara!!", "Image": "https://cdn.myanimelist.net/images/about_me/ranking_items/14004-cf6e56fb-8602-486b-ae83-3146ae746279.jpg?t=1662809415", "Priority": "Low", "Type": "Anime", "Id": 9},
 {"Title": "Showa Genroku Rakugo Shinju", "Image": "https://m.media-amazon.com/images/M/MV5BZDM3N2FhMGQtMTc2OS00OWU1LWE2OTQtNTUzNDA3Yzg0MWE1XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg", "Priority": "Low", "Type": "Anime", "Id": 10},
-{"Title": "Nichijou", "Image": "https://upload.wikimedia.org/wikipedia/en/0/05/Nichijou_dvd_volume_1_cover.jpg", "Priority": "Low", "Type": "Anime", "Id": 11}
+{"Title": "Nichijou", "Image": "https://upload.wikimedia.org/wikipedia/en/0/05/Nichijou_dvd_volume_1_cover.jpg", "Priority": "Low", "Type": "Anime", "Id": 11},
+{"Title": "Hanasaku Iroha: Blossoms for Tomorrow", "Image": "https://cdn.myanimelist.net/images/anime/1491/117229.jpg", "Priority": "Low", "Type": "Anime", "Id": 12}
 ]
