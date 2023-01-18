@@ -4,5 +4,6 @@
 {"Title": "Legend of the Galactic Heroes", "Image": "https://m.media-amazon.com/images/M/MV5BOGI5MTM0YTYtZjVmZC00ZmRkLThlZmItZTY0Y2YzZjhlNTI4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg", "Priority": "High", "Type": "Anime", "Id": 2},
 {"Title": "Cowboy Bebop", "Image": "https://variety.com/wp-content/uploads/2017/06/cowboy-bebop-2.jpg", "Priority": "Medium", "Type": "Anime", "Id": 3},
 {"Title": "Sayonara Zetsubou Sensei", "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/SayonaraZetsubouSensei_vol1_Cover.jpg/220px-SayonaraZetsubouSensei_vol1_Cover.jpg", "Priority": "Medium", "Type": "Anime", "Id": 4},
-{"Title": "Bokurano", "Image": "https://animecafehost.files.wordpress.com/2018/06/bokurano-header.png", "Priority": "Medium", "Type": "Anime", "Id": 5}
+{"Title": "Bokurano", "Image": "https://animecafehost.files.wordpress.com/2018/06/bokurano-header.png", "Priority": "Medium", "Type": "Anime", "Id": 5},
+{"Title": "Nodame Cantabile", "Image": "https://cdn.myanimelist.net/images/anime/9/11986.jpg", "Priority": "Medium", "Type": "Anime", "Id": 6}
 ]
