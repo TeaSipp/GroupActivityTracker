@@ -159,5 +159,12 @@
 "Priority":"High",
 "Type":"Anime",
 "Id":"22"
+},
+{
+"Title":"Horimiya",
+"Image":"https://cdn.myanimelist.net/images/anime/1695/111486.webp",
+"Priority":"Completed",
+"Type":"Anime",
+"Id":"23"
 }
 ]
