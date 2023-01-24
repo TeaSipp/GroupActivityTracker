@@ -145,5 +145,12 @@
 "Priority":"High",
 "Type":"Anime",
 "Id":"20"
+},
+{
+"Title":"Spy x Family",
+"Image":"https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+"Priority":"Completed",
+"Type":"Anime",
+"Id":"21"
 }
 ]
