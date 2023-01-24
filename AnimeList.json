@@ -299,5 +299,12 @@
 "Priority":"Completed",
 "Type":"Anime",
 "Id":"42"
+},
+{
+"Title":"K-On!",
+"Image":"https://cdn.myanimelist.net/images/anime/10/76120.webp",
+"Priority":"Completed",
+"Type":"Anime",
+"Id":"43"
 }
 ]
