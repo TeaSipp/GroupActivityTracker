@@ -334,5 +334,12 @@
 "Priority":"Completed",
 "Type":"Anime",
 "Id":"47"
+},
+{
+"Title":"Temp Title",
+"Image":"https://www.demohotel.space/wp-content/uploads/2021/02/Demo-Hotel_Img-In-Evidenza-Default_00.png",
+"Priority":"High",
+"Type":"Anime",
+"Id":"48"
 }
 ]
