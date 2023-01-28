@@ -327,5 +327,12 @@
 "Priority":"Completed",
 "Type":"Anime",
 "Id":"46"
+},
+{
+"Title":"Zom 100: Bucket List of the Dead",
+"Image":"https://cdn.myanimelist.net/images/manga/3/223116l.jpg",
+"Priority":"Medium",
+"Type":"Anime",
+"Id":"47"
 }
 ]
