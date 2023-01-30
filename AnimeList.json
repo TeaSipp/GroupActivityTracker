@@ -341,12 +341,5 @@
 "Priority":"Medium",
 "Type":"Anime",
 "Id":"48"
-},
-{
-"Title":"Testing",
-"Image":"test image",
-"Priority":"High",
-"Type":"Anime",
-"Id":"49"
 }
 ]
